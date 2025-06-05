@@ -2,21 +2,6 @@
 
 Landing page ini dibuat untuk keperluan promosi layanan facial **GriyaFacial**.
 
-## 📁 Struktur Folder
-
-landingpage_gf/
-├── assets/
-│ └── css/
-│ └── style.css
-├── pages/
-│ ├── about.php
-│ ├── booking.php
-│ ├── contact.php
-│ ├── home.php
-│ └── services.php
-└── index.php
-
-
 ## 📄 Deskripsi Halaman
 
 - `index.php` — Halaman utama
