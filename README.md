@@ -1,4 +1,4 @@
-# Landing Page GF (Catering)
+# Landing Page GF 
 
 Landing page ini dibuat untuk keperluan promosi layanan facial **GriyaFacial**.
 
