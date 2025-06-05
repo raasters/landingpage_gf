@@ -9,7 +9,7 @@ Landing page ini dibuat untuk keperluan promosi layanan facial **GriyaFacial**.
 - `pages/about.php` — Tentang layanan
 - `pages/booking.php` — Form pemesanan
 - `pages/contact.php` — Kontak
-- `pages/services.php` — Layanan catering
+- `pages/services.php` — Layanan 
 - `assets/css/style.css` — File CSS untuk styling
 
 ## 📩 Hubungi Kami
